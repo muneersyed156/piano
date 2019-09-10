@@ -1,3 +1,7 @@
+//button
+//captcha-display
+//captcha-enter
+//captcha valiadtion
 var a = document.getElementById("log")
 var cd = document.getElementById("captcha-display")
 var c1 = Math.floor(Math.random() * (10 - 1 + 1)) + 1

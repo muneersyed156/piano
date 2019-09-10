@@ -73,6 +73,7 @@ var b4m = document.getElementById("b4m")
 var ah4m = document.getElementById("ah4m")
 var a5m = document.getElementById("a5m")
 var a3m = document.getElementById("a3m")
+//mouse Events
 ah3.addEventListener("click", function () {
     ah3m.play()
     i.value = 'A#3'
@@ -217,6 +218,8 @@ a3.addEventListener("click", function () {
     a3m.play()
     i.value = 'A3'
 })
+
+//keyboard Events
 document.body.addEventListener('keydown', function (e) {
     if (e.keyCode == 65) {
         ah3m.play()
