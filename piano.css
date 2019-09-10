@@ -26,6 +26,7 @@ margin-top:10px;
     box-shadow:4px 4px 10px black;
     outline:none;
     color:black;
+    cursor: none;
 }
 #hd{
 text-align:center;
