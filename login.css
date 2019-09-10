@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    background-color: black;
+}
+#log{
+    margin-top:-450px;
+    margin-left:12vw;
+    margin-right:70vw;
+}
+img p button{
+    text-shadow: 2px 2px 6px white;
+    box-shadow: 2px 2px 6px white;
+}
+button{
+    padding:24px 48px;
+    margin-top:20px;
+    border:none;
+    margin-left:20px;
+    outline:none;
+    border-radius:28px;
+    font-size:26px;
+    font-style:italic;
+    background-color: white;
+}
+#cpd{
+    background-color:brown;
+    margin-top:80px;
+    height:200px;
+    margin-left:50vw;
+    margin-right:10vw;
+    border-radius:20px;
+    box-shadow: 4px 4px 10px white;
+}
+#captcha-display,#captcha-enter{
+    margin-left:9vw;
+    text-align:center;
+    font-size:24px;
+    height:40px;
+    margin-top:50px;
+    border:none;
+    outline:none;
+    border-radius:4px;
+    box-shadow: 4px 4px 10px white;
+}
+
